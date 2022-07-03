@@ -1,4 +1,0 @@
-generated
-.
-.
-E:\Programme\src\bin
