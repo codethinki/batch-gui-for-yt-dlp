@@ -195,6 +195,7 @@ del %cd%\src\check.txt
 		echo.
 		echo If the download is very slow, you can exit the download with ctrl + c
 		echo.
+		echo Downloading ffmpeg binarys
 		echo State: %state%
 		set text[7]=%text[7]:~65,20%
 		echo Progress: %text[7]% bits
