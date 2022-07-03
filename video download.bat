@@ -119,9 +119,9 @@ del %cd%\src\check.txt
 
 :ffmpegPath
 	echo.
-	echo set the Path to ffmpeg or get instructions (NOT NEEDED IF DOWNLOADED FROM CODETHINKI'S GIT-REPO OR FULL INSTALL HAS BEEN COMPLEATED):
+	echo install ffmpeg or get instructions:
 	echo   [1] auto install ffmpeg (only windows)
-	echo   [2] set path to ffmpeg binarys
+	echo   [2] set path to ffmpeg binarys (NOT NEEDED IF AUTO INSTALL WAS USED)
 	echo   [3] get instructions
 	echo   [0] go to main
 
